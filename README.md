@@ -6,11 +6,11 @@
 
 ## About Me
 
-I'm Preetham from Boston. I am a Data Scientist with a strong background in software engineering; and used to handling a variety of data pipelines and databases, included unstructured ones. I have prototyped a few products. Skilled in building and handling machine learning models. Specifically, experience in using Python for data analysis combined with forecasting and machine learning. I continually invest in improving my production capability through training and new challenges.
+I'm Preetham from Boston. I'm a Data Science student and a coding enthusiast with a strong background in software engineering; and used to handling a variety of data pipelines and databases, included unstructured ones. I have prototyped a few products. Skilled in building and handling machine learning models. Specifically, experience in using Python for data analysis combined with forecasting and machine learning. I continually invest in improving my production capability through training and new challenges.
 
 - 🔭 I’m currently working on machine learning. 
 - 🌱 I’m currently learning Artificial Intelligence 
-- 💬 Ask me about Machine Learning ,Data Structures and Algorithms, Data Analysis, Anything related to Data Science 
+- 💬 Ask me about Machine Learning ,Data Structures and Algorithms, Data Analysis, Anything related to Data Science or Problem Solving
 - 📫 How to reach me: https://www.linkedin.com/in/preetham-reddy-gollapalli-53497b180/ 
 
 ## Technical Skills
